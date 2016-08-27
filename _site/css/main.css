@@ -1,9 +1,9 @@
 .navbar-default {
-  background: #093750 !important;
+  background: #000000 !important;
   border: none !important; }
 
 .navbar-default .navbar-nav > li > a {
-  color: #abc0ca !important; }
+  color: #fff !important; }
 
 .navbar-default .navbar-nav > li > a:hover {
   color: #03a4fb !important; }
@@ -12,14 +12,15 @@
   color: #03a4fb !important; }
 
 .navbar-default .navbar-brand {
-  color: #abc0ca !important; }
+  color: #fff !important; }
 
 .footer-content {
   text-align: center;
-  padding: 0.5em; }
+  padding: 0.5em;
+  color: #fff !important; }
 
 body {
-  background-color: #022335 !important;
+  background-color: #333333 !important;
   font-family: "Fira Mono" !important;
   color: #abc0ca !important; }
 
@@ -40,7 +41,7 @@ body {
   padding-bottom: 5em; }
 
 .jumbotron {
-  background: #093750 !important; }
+  background: #222222 !important; }
 
 a {
   color: #03a4fb;
@@ -52,7 +53,7 @@ a:hover {
   border-bottom: 1px dotted #03a4fb; }
 
 .post-list {
-  text-align: center; }
+  text-align: left; }
 
 .post-box {
   padding-top: 2em;

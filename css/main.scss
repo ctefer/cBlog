@@ -4,13 +4,13 @@
 @charset "utf-8";
 
 .navbar-default{
-  background: #093750 !important;
+  background: #000000 !important;
   border: none !important;
 
 }
 
 .navbar-default .navbar-nav > li > a{
-    color:#abc0ca !important;
+    color:#fff !important;
 }
 .navbar-default .navbar-nav > li > a:hover{
     color:#03a4fb !important;
@@ -20,14 +20,15 @@
     color:#03a4fb !important;
 }
 .navbar-default .navbar-brand{
-  color:#abc0ca !important;
+  color:#fff !important;
 }
 .footer-content{
   text-align: center;
   padding: 0.5em;
+  color:#fff !important;
 }
 body{
-  background-color: #022335 !important;
+  background-color: #333333 !important;
   font-family: "Fira Mono" !important;
   color: #abc0ca !important;
 }
@@ -52,7 +53,7 @@ body{
   padding-bottom: 5em;
 }
 .jumbotron {
-  background: #093750 !important;
+  background: #222222 !important;
 }
 a {
     color: #03a4fb;
@@ -67,23 +68,23 @@ a:hover{
 
 .post-list{
 
-    text-align: center;
+    text-align: left;
 
 }
 .post-box{
   padding-top: 2em;
-padding-bottom: 2em;
+  padding-bottom: 2em;
 }
 
 .post-title{
   font-size: 20px !important;
-color:  #abc0ca !important;
+  color:  #abc0ca !important;
 }
 
 .post-excerpt{
   color: white !important;
-padding-top: 0.5em;
-padding-bottom: 0.3em;
+  padding-top: 0.5em;
+  padding-bottom: 0.3em;
 }
 .post-title-main{
   text-align: center;
