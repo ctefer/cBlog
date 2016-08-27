@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: '2016-05-12 22:01:43 +0530'
 categories: jekyll update
@@ -15,4 +15,4 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Pretty great stuff. 
+Pretty great stuff.
