@@ -89,7 +89,7 @@ Running `vagrant up` will set up the development environment and run the provisi
 This was a quick project just to get myself oriented with the Git development environment and along the way I learned a bit about Vagrant and RoR. 
 
 #### `bootstrap.sh`
-{% highlight ruby %}
+{% highlight C++ %}
 # The output of all these installation steps is noisy. With this utility
 # the progress report is nice and concise.
 function install {
