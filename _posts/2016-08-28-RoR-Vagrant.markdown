@@ -34,7 +34,7 @@ More on using GitHub later, but for my first GitHub [project](https://github.com
 
 To use my project, download the source code and `vagrant up`, and a brand new Ruby environment is deployed that you can immediately start editing within the project folder. To make the process even simpler, I suggest installing `Git`. The `Git Bash` included as a Windows dropdown prepackages a bash environment. 
 
-{% highlight %}
+{% highlight ruby %}
 # deploy the environment
 $/vagrant up
 # connect to the VM
@@ -89,7 +89,7 @@ Running `vagrant up` will set up the development environment and run the provisi
 This was a quick project just to get myself oriented with the Git development environment and along the way I learned a bit about Vagrant and RoR. 
 
 #### `bootstrap.sh`
-{% highlight shell %}
+{% highlight ruby %}
 # The output of all these installation steps is noisy. With this utility
 # the progress report is nice and concise.
 function install {
