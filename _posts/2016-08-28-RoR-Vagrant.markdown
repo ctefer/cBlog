@@ -34,7 +34,7 @@ More on using GitHub later, but for my first GitHub [project](https://github.com
 
 To use my project, download the source code and `vagrant up`, and a brand new Ruby environment is deployed that you can immediately start editing within the project folder. To make the process even simpler, I suggest installing `Git`. The `Git Bash` included as a Windows dropdown prepackages a bash environment. 
 
-{% highlight ruby %}
+{% highlight C++ %}
 # deploy the environment
 $/vagrant up
 # connect to the VM
