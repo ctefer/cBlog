@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2016-08-29'
-categories: 'jekyll, github'
+categories: jekyll github
 ---
 # GitHub for New Users
 As a new user to GitHub the learning curve has been very steep. I’ve found very few projects that give a concise list of actions to take in order to start developing. So here’s the rundown of actions to perform when starting a new project.
