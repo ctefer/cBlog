@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: '2016-08-29'
 categories: 'jekyll, github'
@@ -116,18 +116,3 @@ Above all, every project is different. Different rules, workflow, and management
 |[GitHub Desktop](https://desktop.github.com/)|Windows GitHub Desktop environment|
 |[Vagrant](https://www.vagrantup.com/)| Automated development environment setup using VM's|
 |[prose.io]( http://prose.io/)| Git Repository markdown editor|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
